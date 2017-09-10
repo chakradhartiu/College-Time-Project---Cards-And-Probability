@@ -3,4 +3,4 @@ This project was done in the college period, and later it was again revised in A
 
 Platform : Turbo C++
 
-Best supported in desktop computer.
+Best supported on desktop computer.
